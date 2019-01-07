@@ -113,3 +113,10 @@ header .header_logo_title {
     text-transform: uppercase;
 }
 
+/*====================
+        LOCATION    
+======================*/
+
+.location_wrapper {
+    position:relative;
+}
