@@ -26,7 +26,7 @@ const Carrousel = () =>  {
             <Slider {...settings}>
                 <div>
                     <div 
-                        className="carrousel_image_2"
+                        className="carrousel_image"
                         style={{
                             background:`url(${slide_one})`,
                             height: `${window.innerHeight}px`,
